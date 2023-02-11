@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shbd845/shbd845/blob/main/nikolai-chernichenko-LSuIc8Riv9I-unsplash.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shbd845/shbd845/blob/main/tim-mossholder-z8y36JocqkU-unsplash.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/shbd845/shbd845/blob/main/tim-mossholder-z8y36JocqkU-unsplash.jpg">
+</picture>
 <!--
 **shbd845/shbd845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
