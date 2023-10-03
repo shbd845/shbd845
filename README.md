@@ -6,7 +6,7 @@
   <img alt="Hello,Thanks for visiting my repository." src="https://github.com/shbd845/shbd845/blob/main/tim-mossholder-z8y36JocqkU-unsplash.jpg">
 </picture>
 <h1>
-Thanks for visiting my repository.
+Thanks for visiting my Profile!!
 </h1>
 </div>
 
