@@ -12,7 +12,8 @@ Thanks for visiting my Profile!!
 
 # About Me
 Myself **Shubh Bindal**.I am an engineering student at Indian Institute of Information Technology Dharwad (IIIT Dharwad) specialising in Computer Science and Technology.
-
+# My HOLOPIN Badges 😄
+[![An image of @shbd845's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shbd845)](https://holopin.io/@shbd845)
 
 
 
