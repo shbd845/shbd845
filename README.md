@@ -8,12 +8,10 @@
 <h1>
 Thanks for visiting my Profile!!
 </h1>
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shbd845&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shbd845&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
-
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=shbd845&theme=shades-of-purple&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shbd845&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 # About Me
